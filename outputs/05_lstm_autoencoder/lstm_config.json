@@ -1,0 +1,13 @@
+{
+  "window": 128,
+  "clip_sigma": 10.0,
+  "threshold": 0.01861966773867607,
+  "best_epoch": 89,
+  "best_val_mse": 0.014542881399393082,
+  "epochs_run": 100,
+  "batch_size": 64,
+  "patience": 12,
+  "learning_rate": 0.001,
+  "latent_dim": 16,
+  "lstm_units": 64
+}

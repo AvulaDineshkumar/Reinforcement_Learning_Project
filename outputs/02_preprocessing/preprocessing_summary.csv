@@ -1,0 +1,14 @@
+Parameter,Value
+Dataset,ESA-ADB Mission 1
+Selected channels,12
+Time resolution,90 seconds
+Interpolation rule,gaps <= 3 samples (4.5 min) only; longer gaps left missing
+Telemetry rows,4909440
+Telemetry period,2000-01-01 00:00:00 -> 2013-12-31 23:58:30
+Anomaly events,168
+Annotation records,1306
+Event split (train/val/test),117/25/26
+Known-anomaly coverage (%),9.314
+Label-clean segments,165
+LSTM window,128 samples (3.2 h)
+NaN-free 128-sample clean windows,34694

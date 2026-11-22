@@ -1,0 +1,4 @@
+Split,Events,LSTM_detected_events,Detection_%
+Train,117,90,76.92
+Validation,25,20,80.0
+Test,26,20,76.92

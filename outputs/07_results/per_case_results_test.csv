@@ -1,0 +1,181 @@
+Hits,Steps,TotalReward,Precision_at_5,Recall_at_5,UnnecessaryInvestigations,Selected,Method,Seed,EventID,N_annotated
+5.0,5.0,5.0,1.0,0.5,0.0,"['channel_39', 'channel_43', 'channel_22', 'channel_21', 'channel_15']",DQN,0,id_104,10
+3.0,5.0,1.0,0.6,1.0,2.0,"['channel_21', 'channel_29', 'channel_14', 'channel_43', 'channel_22']",DQN,0,id_105,3
+5.0,5.0,5.0,1.0,0.4166666666666667,0.0,"['channel_45', 'channel_43', 'channel_39', 'channel_14', 'channel_22']",DQN,0,id_106,12
+3.0,5.0,1.0,0.6,1.0,2.0,"['channel_21', 'channel_29', 'channel_14', 'channel_43', 'channel_22']",DQN,0,id_119,3
+4.0,5.0,3.0,0.8,1.0,1.0,"['channel_41', 'channel_48', 'channel_52', 'channel_43', 'channel_45']",DQN,0,id_124,4
+5.0,5.0,5.0,1.0,0.4166666666666667,0.0,"['channel_43', 'channel_52', 'channel_45', 'channel_41', 'channel_48']",DQN,0,id_145,12
+5.0,5.0,5.0,1.0,1.0,0.0,"['channel_43', 'channel_45', 'channel_41', 'channel_52', 'channel_48']",DQN,0,id_15,5
+5.0,5.0,5.0,1.0,1.0,0.0,"['channel_41', 'channel_45', 'channel_43', 'channel_52', 'channel_48']",DQN,0,id_150,5
+5.0,5.0,5.0,1.0,0.4166666666666667,0.0,"['channel_43', 'channel_39', 'channel_22', 'channel_31', 'channel_52']",DQN,0,id_151,12
+3.0,5.0,1.0,0.6,1.0,2.0,"['channel_43', 'channel_22', 'channel_41', 'channel_21', 'channel_45']",DQN,0,id_153,3
+4.0,5.0,3.0,0.8,1.0,1.0,"['channel_41', 'channel_45', 'channel_43', 'channel_52', 'channel_48']",DQN,0,id_166,4
+5.0,5.0,5.0,1.0,0.4166666666666667,0.0,"['channel_43', 'channel_45', 'channel_41', 'channel_48', 'channel_52']",DQN,0,id_29,12
+3.0,5.0,1.0,0.6,1.0,2.0,"['channel_43', 'channel_22', 'channel_14', 'channel_21', 'channel_29']",DQN,0,id_3,3
+5.0,5.0,5.0,1.0,0.5,0.0,"['channel_43', 'channel_22', 'channel_39', 'channel_41', 'channel_31']",DQN,0,id_35,10
+3.0,5.0,1.0,0.6,1.0,2.0,"['channel_21', 'channel_29', 'channel_14', 'channel_43', 'channel_15']",DQN,0,id_5,3
+5.0,5.0,5.0,1.0,0.5,0.0,"['channel_43', 'channel_39', 'channel_22', 'channel_21', 'channel_15']",DQN,0,id_59,10
+5.0,5.0,5.0,1.0,0.5,0.0,"['channel_45', 'channel_15', 'channel_39', 'channel_31', 'channel_21']",DQN,0,id_77,10
+5.0,5.0,5.0,1.0,1.0,0.0,"['channel_43', 'channel_52', 'channel_45', 'channel_41', 'channel_48']",DQN,0,id_84,5
+5.0,5.0,5.0,1.0,0.4166666666666667,0.0,"['channel_45', 'channel_31', 'channel_22', 'channel_14', 'channel_29']",DQN,0,id_95,12
+3.0,5.0,1.0,0.6,1.0,2.0,"['channel_21', 'channel_29', 'channel_14', 'channel_43', 'channel_22']",DQN,0,id_97,3
+5.0,5.0,5.0,1.0,0.5,0.0,"['channel_43', 'channel_45', 'channel_15', 'channel_14', 'channel_29']",DQN,1,id_104,10
+3.0,5.0,1.0,0.6,1.0,2.0,"['channel_21', 'channel_14', 'channel_29', 'channel_48', 'channel_15']",DQN,1,id_105,3
+5.0,5.0,5.0,1.0,0.4166666666666667,0.0,"['channel_15', 'channel_14', 'channel_45', 'channel_39', 'channel_21']",DQN,1,id_106,12
+3.0,5.0,1.0,0.6,1.0,2.0,"['channel_14', 'channel_21', 'channel_29', 'channel_45', 'channel_31']",DQN,1,id_119,3
+4.0,5.0,3.0,0.8,1.0,1.0,"['channel_48', 'channel_43', 'channel_45', 'channel_52', 'channel_41']",DQN,1,id_124,4
+5.0,5.0,5.0,1.0,0.4166666666666667,0.0,"['channel_48', 'channel_52', 'channel_43', 'channel_45', 'channel_41']",DQN,1,id_145,12
+5.0,5.0,5.0,1.0,1.0,0.0,"['channel_48', 'channel_43', 'channel_45', 'channel_52', 'channel_41']",DQN,1,id_15,5
+5.0,5.0,5.0,1.0,1.0,0.0,"['channel_48', 'channel_43', 'channel_45', 'channel_52', 'channel_41']",DQN,1,id_150,5
+5.0,5.0,5.0,1.0,0.4166666666666667,0.0,"['channel_21', 'channel_29', 'channel_43', 'channel_15', 'channel_45']",DQN,1,id_151,12
+3.0,5.0,1.0,0.6,1.0,2.0,"['channel_43', 'channel_45', 'channel_52', 'channel_41', 'channel_48']",DQN,1,id_153,3
+4.0,5.0,3.0,0.8,1.0,1.0,"['channel_48', 'channel_43', 'channel_45', 'channel_52', 'channel_41']",DQN,1,id_166,4
+5.0,5.0,5.0,1.0,0.4166666666666667,0.0,"['channel_43', 'channel_45', 'channel_52', 'channel_41', 'channel_48']",DQN,1,id_29,12
+3.0,5.0,1.0,0.6,1.0,2.0,"['channel_22', 'channel_14', 'channel_21', 'channel_29', 'channel_48']",DQN,1,id_3,3
+3.0,5.0,1.0,0.6,0.3,2.0,"['channel_43', 'channel_45', 'channel_52', 'channel_41', 'channel_48']",DQN,1,id_35,10
+3.0,5.0,1.0,0.6,1.0,2.0,"['channel_14', 'channel_45', 'channel_29', 'channel_21', 'channel_31']",DQN,1,id_5,3
+5.0,5.0,5.0,1.0,0.5,0.0,"['channel_43', 'channel_45', 'channel_41', 'channel_21', 'channel_15']",DQN,1,id_59,10
+5.0,5.0,5.0,1.0,0.5,0.0,"['channel_22', 'channel_29', 'channel_39', 'channel_31', 'channel_15']",DQN,1,id_77,10
+5.0,5.0,5.0,1.0,1.0,0.0,"['channel_48', 'channel_52', 'channel_43', 'channel_45', 'channel_41']",DQN,1,id_84,5
+5.0,5.0,5.0,1.0,0.4166666666666667,0.0,"['channel_31', 'channel_15', 'channel_14', 'channel_41', 'channel_39']",DQN,1,id_95,12
+3.0,5.0,1.0,0.6,1.0,2.0,"['channel_14', 'channel_21', 'channel_29', 'channel_45', 'channel_31']",DQN,1,id_97,3
+4.0,5.0,3.0,0.8,0.4,1.0,"['channel_45', 'channel_43', 'channel_52', 'channel_41', 'channel_39']",DQN,2,id_104,10
+3.0,5.0,1.0,0.6,1.0,2.0,"['channel_14', 'channel_21', 'channel_29', 'channel_31', 'channel_41']",DQN,2,id_105,3
+5.0,5.0,5.0,1.0,0.4166666666666667,0.0,"['channel_31', 'channel_14', 'channel_15', 'channel_22', 'channel_21']",DQN,2,id_106,12
+3.0,5.0,1.0,0.6,1.0,2.0,"['channel_14', 'channel_21', 'channel_29', 'channel_31', 'channel_41']",DQN,2,id_119,3
+4.0,5.0,3.0,0.8,1.0,1.0,"['channel_48', 'channel_43', 'channel_45', 'channel_52', 'channel_41']",DQN,2,id_124,4
+5.0,5.0,5.0,1.0,0.4166666666666667,0.0,"['channel_52', 'channel_45', 'channel_22', 'channel_43', 'channel_29']",DQN,2,id_145,12
+5.0,5.0,5.0,1.0,1.0,0.0,"['channel_48', 'channel_43', 'channel_45', 'channel_52', 'channel_41']",DQN,2,id_15,5
+5.0,5.0,5.0,1.0,1.0,0.0,"['channel_48', 'channel_43', 'channel_45', 'channel_52', 'channel_41']",DQN,2,id_150,5
+5.0,5.0,5.0,1.0,0.4166666666666667,0.0,"['channel_43', 'channel_15', 'channel_14', 'channel_22', 'channel_39']",DQN,2,id_151,12
+0.0,5.0,-5.0,0.0,0.0,5.0,"['channel_48', 'channel_29', 'channel_21', 'channel_52', 'channel_14']",DQN,2,id_153,3
+4.0,5.0,3.0,0.8,1.0,1.0,"['channel_48', 'channel_43', 'channel_45', 'channel_52', 'channel_41']",DQN,2,id_166,4
+5.0,5.0,5.0,1.0,0.4166666666666667,0.0,"['channel_48', 'channel_43', 'channel_45', 'channel_52', 'channel_41']",DQN,2,id_29,12
+3.0,5.0,1.0,0.6,1.0,2.0,"['channel_14', 'channel_21', 'channel_29', 'channel_31', 'channel_39']",DQN,2,id_3,3
+4.0,5.0,3.0,0.8,0.4,1.0,"['channel_48', 'channel_29', 'channel_14', 'channel_21', 'channel_31']",DQN,2,id_35,10
+3.0,5.0,1.0,0.6,1.0,2.0,"['channel_48', 'channel_29', 'channel_14', 'channel_21', 'channel_31']",DQN,2,id_5,3
+4.0,5.0,3.0,0.8,0.4,1.0,"['channel_48', 'channel_43', 'channel_45', 'channel_29', 'channel_41']",DQN,2,id_59,10
+5.0,5.0,5.0,1.0,0.5,0.0,"['channel_14', 'channel_39', 'channel_22', 'channel_29', 'channel_21']",DQN,2,id_77,10
+5.0,5.0,5.0,1.0,1.0,0.0,"['channel_48', 'channel_43', 'channel_45', 'channel_52', 'channel_41']",DQN,2,id_84,5
+5.0,5.0,5.0,1.0,0.4166666666666667,0.0,"['channel_43', 'channel_15', 'channel_14', 'channel_22', 'channel_39']",DQN,2,id_95,12
+3.0,5.0,1.0,0.6,1.0,2.0,"['channel_14', 'channel_21', 'channel_29', 'channel_31', 'channel_41']",DQN,2,id_97,3
+3.0,5.0,1.0,0.6,0.3,2.0,"['channel_41', 'channel_45', 'channel_48', 'channel_52', 'channel_43']",DQN,3,id_104,10
+3.0,5.0,1.0,0.6,1.0,2.0,"['channel_29', 'channel_21', 'channel_14', 'channel_39', 'channel_43']",DQN,3,id_105,3
+5.0,5.0,5.0,1.0,0.4166666666666667,0.0,"['channel_39', 'channel_14', 'channel_15', 'channel_31', 'channel_29']",DQN,3,id_106,12
+3.0,5.0,1.0,0.6,1.0,2.0,"['channel_29', 'channel_21', 'channel_39', 'channel_14', 'channel_43']",DQN,3,id_119,3
+4.0,5.0,3.0,0.8,1.0,1.0,"['channel_48', 'channel_43', 'channel_45', 'channel_41', 'channel_52']",DQN,3,id_124,4
+5.0,5.0,5.0,1.0,0.4166666666666667,0.0,"['channel_52', 'channel_41', 'channel_45', 'channel_43', 'channel_48']",DQN,3,id_145,12
+5.0,5.0,5.0,1.0,1.0,0.0,"['channel_41', 'channel_48', 'channel_52', 'channel_45', 'channel_43']",DQN,3,id_15,5
+5.0,5.0,5.0,1.0,1.0,0.0,"['channel_48', 'channel_43', 'channel_45', 'channel_41', 'channel_52']",DQN,3,id_150,5
+5.0,5.0,5.0,1.0,0.4166666666666667,0.0,"['channel_43', 'channel_31', 'channel_14', 'channel_45', 'channel_52']",DQN,3,id_151,12
+3.0,5.0,1.0,0.6,1.0,2.0,"['channel_48', 'channel_41', 'channel_52', 'channel_45', 'channel_43']",DQN,3,id_153,3
+4.0,5.0,3.0,0.8,1.0,1.0,"['channel_48', 'channel_45', 'channel_41', 'channel_52', 'channel_43']",DQN,3,id_166,4
+5.0,5.0,5.0,1.0,0.4166666666666667,0.0,"['channel_41', 'channel_48', 'channel_52', 'channel_45', 'channel_43']",DQN,3,id_29,12
+3.0,5.0,1.0,0.6,1.0,2.0,"['channel_29', 'channel_14', 'channel_21', 'channel_39', 'channel_22']",DQN,3,id_3,3
+3.0,5.0,1.0,0.6,0.3,2.0,"['channel_48', 'channel_41', 'channel_52', 'channel_45', 'channel_43']",DQN,3,id_35,10
+3.0,5.0,1.0,0.6,1.0,2.0,"['channel_29', 'channel_15', 'channel_21', 'channel_14', 'channel_41']",DQN,3,id_5,3
+3.0,5.0,1.0,0.6,0.3,2.0,"['channel_41', 'channel_45', 'channel_48', 'channel_43', 'channel_52']",DQN,3,id_59,10
+5.0,5.0,5.0,1.0,0.5,0.0,"['channel_39', 'channel_14', 'channel_31', 'channel_29', 'channel_22']",DQN,3,id_77,10
+5.0,5.0,5.0,1.0,1.0,0.0,"['channel_41', 'channel_48', 'channel_52', 'channel_45', 'channel_43']",DQN,3,id_84,5
+5.0,5.0,5.0,1.0,0.4166666666666667,0.0,"['channel_31', 'channel_14', 'channel_43', 'channel_52', 'channel_45']",DQN,3,id_95,12
+3.0,5.0,1.0,0.6,1.0,2.0,"['channel_29', 'channel_21', 'channel_39', 'channel_14', 'channel_43']",DQN,3,id_97,3
+4.0,5.0,3.0,0.8,0.4,1.0,"['channel_22', 'channel_45', 'channel_43', 'channel_52', 'channel_41']",DQN,4,id_104,10
+3.0,5.0,1.0,0.6,1.0,2.0,"['channel_21', 'channel_29', 'channel_14', 'channel_22', 'channel_48']",DQN,4,id_105,3
+5.0,5.0,5.0,1.0,0.4166666666666667,0.0,"['channel_22', 'channel_14', 'channel_45', 'channel_21', 'channel_43']",DQN,4,id_106,12
+3.0,5.0,1.0,0.6,1.0,2.0,"['channel_21', 'channel_29', 'channel_31', 'channel_14', 'channel_22']",DQN,4,id_119,3
+4.0,5.0,3.0,0.8,1.0,1.0,"['channel_45', 'channel_41', 'channel_43', 'channel_52', 'channel_48']",DQN,4,id_124,4
+5.0,5.0,5.0,1.0,0.4166666666666667,0.0,"['channel_45', 'channel_41', 'channel_52', 'channel_43', 'channel_48']",DQN,4,id_145,12
+5.0,5.0,5.0,1.0,1.0,0.0,"['channel_45', 'channel_41', 'channel_43', 'channel_52', 'channel_48']",DQN,4,id_15,5
+5.0,5.0,5.0,1.0,1.0,0.0,"['channel_45', 'channel_41', 'channel_43', 'channel_52', 'channel_48']",DQN,4,id_150,5
+5.0,5.0,5.0,1.0,0.4166666666666667,0.0,"['channel_29', 'channel_31', 'channel_45', 'channel_21', 'channel_41']",DQN,4,id_151,12
+0.0,5.0,-5.0,0.0,0.0,5.0,"['channel_22', 'channel_48', 'channel_29', 'channel_21', 'channel_52']",DQN,4,id_153,3
+4.0,5.0,3.0,0.8,1.0,1.0,"['channel_45', 'channel_41', 'channel_43', 'channel_52', 'channel_48']",DQN,4,id_166,4
+5.0,5.0,5.0,1.0,0.4166666666666667,0.0,"['channel_41', 'channel_52', 'channel_48', 'channel_45', 'channel_43']",DQN,4,id_29,12
+3.0,5.0,1.0,0.6,1.0,2.0,"['channel_21', 'channel_29', 'channel_14', 'channel_22', 'channel_48']",DQN,4,id_3,3
+3.0,5.0,1.0,0.6,0.3,2.0,"['channel_41', 'channel_52', 'channel_45', 'channel_43', 'channel_48']",DQN,4,id_35,10
+3.0,5.0,1.0,0.6,1.0,2.0,"['channel_21', 'channel_29', 'channel_31', 'channel_14', 'channel_48']",DQN,4,id_5,3
+4.0,5.0,3.0,0.8,0.4,1.0,"['channel_22', 'channel_45', 'channel_43', 'channel_52', 'channel_41']",DQN,4,id_59,10
+5.0,5.0,5.0,1.0,0.5,0.0,"['channel_22', 'channel_14', 'channel_45', 'channel_15', 'channel_21']",DQN,4,id_77,10
+5.0,5.0,5.0,1.0,1.0,0.0,"['channel_45', 'channel_41', 'channel_43', 'channel_52', 'channel_48']",DQN,4,id_84,5
+5.0,5.0,5.0,1.0,0.4166666666666667,0.0,"['channel_14', 'channel_45', 'channel_39', 'channel_15', 'channel_43']",DQN,4,id_95,12
+3.0,5.0,1.0,0.6,1.0,2.0,"['channel_21', 'channel_29', 'channel_31', 'channel_14', 'channel_48']",DQN,4,id_97,3
+5.0,5.0,5.0,1.0,0.5,0.0,"['channel_41', 'channel_45', 'channel_43', 'channel_14', 'channel_21']",Fixed Priority,-1,id_104,10
+2.0,5.0,-1.0,0.4,0.6666666666666666,3.0,"['channel_41', 'channel_45', 'channel_43', 'channel_14', 'channel_21']",Fixed Priority,-1,id_105,3
+5.0,5.0,5.0,1.0,0.4166666666666667,0.0,"['channel_41', 'channel_45', 'channel_43', 'channel_14', 'channel_21']",Fixed Priority,-1,id_106,12
+2.0,5.0,-1.0,0.4,0.6666666666666666,3.0,"['channel_41', 'channel_45', 'channel_43', 'channel_14', 'channel_21']",Fixed Priority,-1,id_119,3
+3.0,5.0,1.0,0.6,0.75,2.0,"['channel_41', 'channel_45', 'channel_43', 'channel_14', 'channel_21']",Fixed Priority,-1,id_124,4
+5.0,5.0,5.0,1.0,0.4166666666666667,0.0,"['channel_41', 'channel_45', 'channel_43', 'channel_14', 'channel_21']",Fixed Priority,-1,id_145,12
+3.0,5.0,1.0,0.6,0.6,2.0,"['channel_41', 'channel_45', 'channel_43', 'channel_14', 'channel_21']",Fixed Priority,-1,id_15,5
+3.0,5.0,1.0,0.6,0.6,2.0,"['channel_41', 'channel_45', 'channel_43', 'channel_14', 'channel_21']",Fixed Priority,-1,id_150,5
+5.0,5.0,5.0,1.0,0.4166666666666667,0.0,"['channel_41', 'channel_45', 'channel_43', 'channel_14', 'channel_21']",Fixed Priority,-1,id_151,12
+3.0,5.0,1.0,0.6,1.0,2.0,"['channel_41', 'channel_45', 'channel_43', 'channel_14', 'channel_21']",Fixed Priority,-1,id_153,3
+3.0,5.0,1.0,0.6,0.75,2.0,"['channel_41', 'channel_45', 'channel_43', 'channel_14', 'channel_21']",Fixed Priority,-1,id_166,4
+5.0,5.0,5.0,1.0,0.4166666666666667,0.0,"['channel_41', 'channel_45', 'channel_43', 'channel_14', 'channel_21']",Fixed Priority,-1,id_29,12
+2.0,5.0,-1.0,0.4,0.6666666666666666,3.0,"['channel_41', 'channel_45', 'channel_43', 'channel_14', 'channel_21']",Fixed Priority,-1,id_3,3
+5.0,5.0,5.0,1.0,0.5,0.0,"['channel_41', 'channel_45', 'channel_43', 'channel_14', 'channel_21']",Fixed Priority,-1,id_35,10
+2.0,5.0,-1.0,0.4,0.6666666666666666,3.0,"['channel_41', 'channel_45', 'channel_43', 'channel_14', 'channel_21']",Fixed Priority,-1,id_5,3
+5.0,5.0,5.0,1.0,0.5,0.0,"['channel_41', 'channel_45', 'channel_43', 'channel_14', 'channel_21']",Fixed Priority,-1,id_59,10
+5.0,5.0,5.0,1.0,0.5,0.0,"['channel_41', 'channel_45', 'channel_43', 'channel_14', 'channel_21']",Fixed Priority,-1,id_77,10
+3.0,5.0,1.0,0.6,0.6,2.0,"['channel_41', 'channel_45', 'channel_43', 'channel_14', 'channel_21']",Fixed Priority,-1,id_84,5
+5.0,5.0,5.0,1.0,0.4166666666666667,0.0,"['channel_41', 'channel_45', 'channel_43', 'channel_14', 'channel_21']",Fixed Priority,-1,id_95,12
+2.0,5.0,-1.0,0.4,0.6666666666666666,3.0,"['channel_41', 'channel_45', 'channel_43', 'channel_14', 'channel_21']",Fixed Priority,-1,id_97,3
+5.0,5.0,5.0,1.0,0.5,0.0,"['channel_43', 'channel_41', 'channel_45', 'channel_15', 'channel_31']",LSTM-Greedy,-1,id_104,10
+3.0,5.0,1.0,0.6,1.0,2.0,"['channel_29', 'channel_14', 'channel_21', 'channel_45', 'channel_41']",LSTM-Greedy,-1,id_105,3
+5.0,5.0,5.0,1.0,0.4166666666666667,0.0,"['channel_15', 'channel_21', 'channel_14', 'channel_29', 'channel_45']",LSTM-Greedy,-1,id_106,12
+3.0,5.0,1.0,0.6,1.0,2.0,"['channel_29', 'channel_14', 'channel_41', 'channel_45', 'channel_21']",LSTM-Greedy,-1,id_119,3
+4.0,5.0,3.0,0.8,1.0,1.0,"['channel_41', 'channel_43', 'channel_45', 'channel_48', 'channel_14']",LSTM-Greedy,-1,id_124,4
+5.0,5.0,5.0,1.0,0.4166666666666667,0.0,"['channel_43', 'channel_45', 'channel_41', 'channel_48', 'channel_52']",LSTM-Greedy,-1,id_145,12
+4.0,5.0,3.0,0.8,0.8,1.0,"['channel_45', 'channel_41', 'channel_43', 'channel_52', 'channel_22']",LSTM-Greedy,-1,id_15,5
+4.0,5.0,3.0,0.8,0.8,1.0,"['channel_41', 'channel_45', 'channel_43', 'channel_48', 'channel_22']",LSTM-Greedy,-1,id_150,5
+5.0,5.0,5.0,1.0,0.4166666666666667,0.0,"['channel_43', 'channel_41', 'channel_45', 'channel_15', 'channel_52']",LSTM-Greedy,-1,id_151,12
+3.0,5.0,1.0,0.6,1.0,2.0,"['channel_41', 'channel_45', 'channel_43', 'channel_52', 'channel_48']",LSTM-Greedy,-1,id_153,3
+4.0,5.0,3.0,0.8,1.0,1.0,"['channel_41', 'channel_45', 'channel_43', 'channel_52', 'channel_48']",LSTM-Greedy,-1,id_166,4
+5.0,5.0,5.0,1.0,0.4166666666666667,0.0,"['channel_45', 'channel_41', 'channel_43', 'channel_15', 'channel_48']",LSTM-Greedy,-1,id_29,12
+3.0,5.0,1.0,0.6,1.0,2.0,"['channel_29', 'channel_14', 'channel_21', 'channel_45', 'channel_41']",LSTM-Greedy,-1,id_3,3
+3.0,5.0,1.0,0.6,0.3,2.0,"['channel_45', 'channel_41', 'channel_43', 'channel_52', 'channel_48']",LSTM-Greedy,-1,id_35,10
+2.0,5.0,-1.0,0.4,0.6666666666666666,3.0,"['channel_43', 'channel_45', 'channel_41', 'channel_14', 'channel_21']",LSTM-Greedy,-1,id_5,3
+5.0,5.0,5.0,1.0,0.5,0.0,"['channel_41', 'channel_43', 'channel_15', 'channel_45', 'channel_29']",LSTM-Greedy,-1,id_59,10
+3.0,5.0,1.0,0.6,0.3,2.0,"['channel_39', 'channel_45', 'channel_48', 'channel_31', 'channel_52']",LSTM-Greedy,-1,id_77,10
+5.0,5.0,5.0,1.0,1.0,0.0,"['channel_43', 'channel_45', 'channel_41', 'channel_52', 'channel_48']",LSTM-Greedy,-1,id_84,5
+5.0,5.0,5.0,1.0,0.4166666666666667,0.0,"['channel_41', 'channel_45', 'channel_43', 'channel_39', 'channel_31']",LSTM-Greedy,-1,id_95,12
+3.0,5.0,1.0,0.6,1.0,2.0,"['channel_29', 'channel_14', 'channel_21', 'channel_41', 'channel_45']",LSTM-Greedy,-1,id_97,3
+5.0,5.0,5.0,1.0,0.5,0.0,"['channel_41', 'channel_45', 'channel_43', 'channel_14', 'channel_21']",Oracle,-1,id_104,10
+3.0,5.0,1.0,0.6,1.0,2.0,"['channel_14', 'channel_21', 'channel_29', 'channel_41', 'channel_45']",Oracle,-1,id_105,3
+5.0,5.0,5.0,1.0,0.4166666666666667,0.0,"['channel_41', 'channel_45', 'channel_43', 'channel_14', 'channel_21']",Oracle,-1,id_106,12
+3.0,5.0,1.0,0.6,1.0,2.0,"['channel_14', 'channel_21', 'channel_29', 'channel_41', 'channel_45']",Oracle,-1,id_119,3
+4.0,5.0,3.0,0.8,1.0,1.0,"['channel_41', 'channel_45', 'channel_43', 'channel_48', 'channel_14']",Oracle,-1,id_124,4
+5.0,5.0,5.0,1.0,0.4166666666666667,0.0,"['channel_41', 'channel_45', 'channel_43', 'channel_14', 'channel_21']",Oracle,-1,id_145,12
+5.0,5.0,5.0,1.0,1.0,0.0,"['channel_41', 'channel_45', 'channel_43', 'channel_48', 'channel_52']",Oracle,-1,id_15,5
+5.0,5.0,5.0,1.0,1.0,0.0,"['channel_41', 'channel_45', 'channel_43', 'channel_48', 'channel_52']",Oracle,-1,id_150,5
+5.0,5.0,5.0,1.0,0.4166666666666667,0.0,"['channel_41', 'channel_45', 'channel_43', 'channel_14', 'channel_21']",Oracle,-1,id_151,12
+3.0,5.0,1.0,0.6,1.0,2.0,"['channel_41', 'channel_45', 'channel_43', 'channel_14', 'channel_21']",Oracle,-1,id_153,3
+4.0,5.0,3.0,0.8,1.0,1.0,"['channel_41', 'channel_45', 'channel_43', 'channel_52', 'channel_14']",Oracle,-1,id_166,4
+5.0,5.0,5.0,1.0,0.4166666666666667,0.0,"['channel_41', 'channel_45', 'channel_43', 'channel_14', 'channel_21']",Oracle,-1,id_29,12
+3.0,5.0,1.0,0.6,1.0,2.0,"['channel_14', 'channel_21', 'channel_29', 'channel_41', 'channel_45']",Oracle,-1,id_3,3
+5.0,5.0,5.0,1.0,0.5,0.0,"['channel_41', 'channel_45', 'channel_43', 'channel_14', 'channel_21']",Oracle,-1,id_35,10
+3.0,5.0,1.0,0.6,1.0,2.0,"['channel_14', 'channel_21', 'channel_29', 'channel_41', 'channel_45']",Oracle,-1,id_5,3
+5.0,5.0,5.0,1.0,0.5,0.0,"['channel_41', 'channel_45', 'channel_43', 'channel_14', 'channel_21']",Oracle,-1,id_59,10
+5.0,5.0,5.0,1.0,0.5,0.0,"['channel_41', 'channel_45', 'channel_43', 'channel_14', 'channel_21']",Oracle,-1,id_77,10
+5.0,5.0,5.0,1.0,1.0,0.0,"['channel_41', 'channel_45', 'channel_43', 'channel_48', 'channel_52']",Oracle,-1,id_84,5
+5.0,5.0,5.0,1.0,0.4166666666666667,0.0,"['channel_41', 'channel_45', 'channel_43', 'channel_14', 'channel_21']",Oracle,-1,id_95,12
+3.0,5.0,1.0,0.6,1.0,2.0,"['channel_14', 'channel_21', 'channel_29', 'channel_41', 'channel_45']",Oracle,-1,id_97,3
+4.22,5.0,3.44,0.8440000000000001,0.42200000000000004,0.78,,Random,-1,id_104,10
+1.267,5.0,-2.466,0.2534,0.42233333333333334,3.733,,Random,-1,id_105,3
+5.0,5.0,5.0,1.0,0.41666666666666674,0.0,,Random,-1,id_106,12
+1.272,5.0,-2.456,0.2544,0.424,3.728,,Random,-1,id_119,3
+1.671,5.0,-1.658,0.33420000000000005,0.41775,3.329,,Random,-1,id_124,4
+5.0,5.0,5.0,1.0,0.41666666666666674,0.0,,Random,-1,id_145,12
+2.1,5.0,-0.8,0.42000000000000004,0.42000000000000004,2.9,,Random,-1,id_15,5
+2.108,5.0,-0.784,0.42160000000000003,0.42160000000000003,2.892,,Random,-1,id_150,5
+5.0,5.0,5.0,1.0,0.41666666666666674,0.0,,Random,-1,id_151,12
+1.262,5.0,-2.476,0.2524,0.42066666666666663,3.738,,Random,-1,id_153,3
+1.647,5.0,-1.706,0.3294000000000001,0.41175,3.353,,Random,-1,id_166,4
+5.0,5.0,5.0,1.0,0.41666666666666674,0.0,,Random,-1,id_29,12
+1.249,5.0,-2.502,0.24980000000000002,0.4163333333333333,3.751,,Random,-1,id_3,3
+4.167,5.0,3.334,0.8334000000000001,0.41670000000000007,0.833,,Random,-1,id_35,10
+1.253,5.0,-2.494,0.25060000000000004,0.41766666666666663,3.747,,Random,-1,id_5,3
+4.109,5.0,3.218,0.8218000000000002,0.4109000000000001,0.891,,Random,-1,id_59,10
+4.181,5.0,3.362,0.8362,0.4181,0.819,,Random,-1,id_77,10
+2.105,5.0,-0.79,0.42100000000000004,0.42100000000000004,2.895,,Random,-1,id_84,5
+5.0,5.0,5.0,1.0,0.41666666666666674,0.0,,Random,-1,id_95,12
+1.256,5.0,-2.488,0.25120000000000003,0.41866666666666663,3.744,,Random,-1,id_97,3

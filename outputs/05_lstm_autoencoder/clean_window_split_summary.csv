@@ -1,0 +1,4 @@
+Split,Segments,Clean_windows
+Train,115,23700
+Validation,24,5712
+Test,26,5282

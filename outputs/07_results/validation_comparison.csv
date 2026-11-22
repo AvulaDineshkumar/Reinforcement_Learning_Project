@@ -1,0 +1,6 @@
+Method,Cases,TotalReward,Hits,Precision_at_5,Recall_at_5,UnnecessaryInvestigations,TotalReward_std,Hits_std,Precision_at_5_std,Recall_at_5_std,UnnecessaryInvestigations_std
+DQN,20,3.5,4.25,0.85,0.8801587301587303,0.75,0.0,0.0,0.0,0.0,0.0
+Fixed Priority,20,0.7,2.85,0.57,0.5447619047619047,2.15,0.0,0.0,0.0,0.0,0.0
+LSTM-Greedy,20,2.7,3.85,0.7700000000000001,0.7601587301587301,1.15,0.0,0.0,0.0,0.0,0.0
+Random,20,-0.42139999999999994,2.2893,0.45786000000000004,0.41603761904761904,2.7107,0.0,0.0,0.0,0.0,0.0
+Oracle,20,3.5,4.25,0.85,0.88015873015873,0.75,0.0,0.0,0.0,0.0,0.0

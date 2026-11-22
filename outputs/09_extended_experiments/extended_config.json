@@ -1,0 +1,36 @@
+{
+  "inner_val_reward": {
+    "(i) original detector + raw state": 3.666666666666666,
+    "(ii) original detector + normalised state": 3.384761904761904
+  },
+  "selected_score": "Max log-ratio",
+  "thresholds": {
+    "Mean MSE (original)": 0.01861966773867607,
+    "Mean log-ratio": 0.47163692116737366,
+    "Max log-ratio": 1.9218637943267822
+  },
+  "cases_original": 130,
+  "cases_selected": 116,
+  "best_config": "(i) original detector + raw state",
+  "folds": 5,
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "hyperparameters": {
+    "hidden": 64,
+    "lr": 0.001,
+    "gamma": 0.95,
+    "batch": 64,
+    "buffer": 10000,
+    "episodes": 3000,
+    "eps_start": 1.0,
+    "eps_min": 0.05,
+    "eps_decay": 0.998,
+    "target_update": 20,
+    "eval_every": 50
+  }
+}

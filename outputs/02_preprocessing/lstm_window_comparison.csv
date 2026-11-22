@@ -1,0 +1,4 @@
+Window,Hours,Usable_segments,Candidate_windows,NaN-free_windows,NaN-free_%
+64,1.6,159,69480,69480,100.0
+128,3.2,151,34694,34694,100.0
+256,6.4,147,17311,17311,100.0

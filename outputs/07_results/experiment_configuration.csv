@@ -1,0 +1,16 @@
+Parameter,Value
+budget,5
+hidden,64
+lr,0.001
+gamma,0.95
+batch,64
+buffer,10000
+episodes,3000
+eps_start,1.0
+eps_min,0.05
+eps_decay,0.998
+target_update,20
+eval_every,50
+seeds,"[0, 1, 2, 3, 4]"
+state,12 log1p channel errors + 12 status (0/0.5/1) + remaining budget/5
+fixed_priority_order,"['channel_41', 'channel_45', 'channel_43', 'channel_14', 'channel_21', 'channel_29', 'channel_48', 'channel_52', 'channel_22', 'channel_31', 'channel_39', 'channel_15']"
