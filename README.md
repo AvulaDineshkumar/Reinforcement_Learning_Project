@@ -16,13 +16,12 @@ parent folder were not modified.
 | `notebooks/05_extended_experiments.ipynb` | 5-fold cross-validation over all events (main result), ablation, budget sweep 3/5/7, anomaly-score variants |
 | `notebooks/06_improved_pipeline.ipynb` | **Final pipeline:** overlapping-window detection (same LSTM and threshold) + DQN training augmentation, 5-fold CV, end-to-end metrics, budget sweep |
 | `notebooks/04_final_results.ipynb` | Consolidated tables, final plots, auto-generated interpretation (run last) |
-| `src/` | `rl_utils.py`, `dqn_core.py`, the notebook sources (`0x_*.py`), `make_diagram.py`, `py2nb.py` |
+| `src/` | `rl_utils.py`, `dqn_core.py`, the notebook sources (`0x_*.py`) |
 | `outputs/01_dataset … 03_splits` | Metadata, labels, telemetry matrix (parquet), masks, splits |
 | `outputs/04_plots` | 23 figures (PNG, 200 dpi); `23_final_improved_summary.png` is the headline figure |
 | `outputs/05_lstm_autoencoder` | Model (`.keras`), normalisation statistics, training history, detection results |
 | `outputs/06_rl_dqn` | 5 DQN models, training histories, validation checkpoints, window scores, investigation cases |
 | `outputs/07_results` | Per-case results, comparison tables, statistical tests, configuration, interpretation |
-| `outputs/08_diagram` | Corrected architecture diagram (PNG, PDF, editable `.drawio`) |
 | `outputs/09_extended_experiments` | Cross-validation results, ablation, budget sweep, statistical tests, score comparison |
 | `outputs/10_improved_pipeline` | Final pipeline results: event coverage, CV results, end-to-end metrics over 168 events, budget sweep, tests |
 
